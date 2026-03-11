@@ -177,7 +177,7 @@ pengaktifan() {
         requests_clone
         termux-setup-storage_clone
         $e $h$bg_lg "\rSucces$b STAV$h Active blocked"$res
-        echo "CLAY STAV" > "$cek_stav"
+        echo "GALIRUS OFFICIAL" > "$cek_stav"
         mpv $jembot/antivirus_on.wav &> /dev/null
         fi
       done
